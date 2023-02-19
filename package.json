@@ -11,6 +11,9 @@
     "email": "youssefelshabasydev@gmail.com",
     "url": "https://github.com/Juke-Duke"
   },
+  "repository": {
+    "url": "https://github.com/Juke-Duke/Trance"
+  },
   "icon": "TranceLogo.png",
   "categories": [
     "Themes"
