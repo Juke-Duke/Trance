@@ -1,0 +1,27 @@
+{
+  "name": "trance",
+  "displayName": "Trance",
+  "description": "Lose yourself to the zone.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "author": {
+    "name": "Youssef Elshabasy",
+    "email": "youssefelshabasydev@gmail.com",
+    "url": "https://github.com/Juke-Duke"
+  },
+  "icon": "TranceLogo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Trance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Trance-color-theme.json"
+      }
+    ]
+  }
+}
