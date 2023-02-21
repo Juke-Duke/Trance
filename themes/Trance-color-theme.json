@@ -468,6 +468,7 @@
 			"name": "Class Types",
 			"scope": [
                 "entity.name.type",
+				"entity.name.namespace",
                 "keyword.type",
                 "keyword.other.this",
                 "support.type.primitive",
