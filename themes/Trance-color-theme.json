@@ -450,7 +450,8 @@
 				"string constant.other.placeholder",
 				"variable.parameter.handlebars",
 				"meta.jsx.children",
-				"source.swift"
+				"source.swift",
+				"variable.parameter.function.swift"
 			],
 			"settings": {
 				"foreground": "#9ABDF5"
