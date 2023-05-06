@@ -408,7 +408,8 @@
 				"support.type.builtin",
 				"entity.other.attribute-name.id",
 				"entity.other.attribute-name.class",
-				"meta.at-rule.mixin.scss entity.name.function.scss"
+				"meta.at-rule.mixin.scss entity.name.function.scss",
+				"support.class.component"
 			],
 			"settings": {
 				"foreground": "#87A1FF"
@@ -433,7 +434,6 @@
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
-				"entity.name.tag support.class.component",
 				"meta.tag"
 			],
 			"settings": {
@@ -450,8 +450,7 @@
 				"string constant.other.placeholder",
 				"variable.parameter.handlebars",
 				"meta.jsx.children",
-				"source.swift",
-				"variable.parameter.function.swift"
+				"source.swift"
 			],
 			"settings": {
 				"foreground": "#9ABDF5"
