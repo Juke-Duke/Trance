@@ -617,16 +617,6 @@
             }
         },
         {
-            "name": "This Keyword with Punctuation, ES7 Bind Operator",
-            "scope": [
-                "source.js constant.other.object.key.js string.unquoted.label.js",
-                "variable.language.this punctuation.definition.variable"
-            ],
-            "settings": {
-                "foreground": "#F7768E"
-            }
-        },
-        {
             "name": "HTML Attributes",
             "scope": [
                 "entity.other.attribute-name",
