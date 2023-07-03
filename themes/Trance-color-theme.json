@@ -366,6 +366,7 @@
                 "punctuation",
                 "keyword.operator",
                 "keyword.control.as",
+                "keyword.control.is",
                 "keyword.operator.bitwise.shift",
                 "storage.type.function.arrow",
                 "punctuation",
@@ -397,7 +398,6 @@
         {
             "name": "Types",
             "scope": [
-                "keyword.type",
                 "variable.other.object",
                 "support.class",
                 "support.type",
@@ -445,8 +445,7 @@
         {
             "name": "Keyword",
             "scope": [
-                "keyword.other",
-                "keyword.control",
+                "keyword",
                 "storage",
                 "source.cpp keyword.operator.new",
                 "keyword.operator.delete",
