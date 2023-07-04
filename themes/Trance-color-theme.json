@@ -450,6 +450,7 @@
                 "source.cpp keyword.operator.new",
                 "keyword.operator.delete",
                 "entity.name.operator",
+                "variable.language",
                 "source.cs",
                 "variable.other.readwrite.cs"
             ],
