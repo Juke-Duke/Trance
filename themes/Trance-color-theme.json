@@ -602,13 +602,6 @@
             }
         },
         {
-            "name": "Language Methods",
-            "scope": "variable.language",
-            "settings": {
-                "foreground": "#F7768E"
-            }
-        },
-        {
             "name": "Variable Punctuation",
             "scope": "variable.other punctuation.definition.variable",
             "settings": {
