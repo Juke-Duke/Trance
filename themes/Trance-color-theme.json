@@ -480,6 +480,7 @@
                 "string constant.other.placeholder",
                 "variable.parameter.handlebars",
                 "meta.jsx.children",
+                "support.function.any-method.swift",
                 "source.swift"
             ],
             "settings": {
