@@ -436,7 +436,8 @@
                 "support.constant.math",
                 "support.constant.dom",
                 "support.constant.json",
-                "entity.other.inherited-class"
+                "entity.other.inherited-class",
+                "variable.language.generic-parameter.swift"
             ],
             "settings": {
                 "foreground": "#87A1FF"
