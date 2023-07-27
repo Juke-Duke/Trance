@@ -335,7 +335,8 @@
             "scope": [
                 "constant",
                 "variable.other.constant",
-                "variable.other.swift"
+                "variable.other.swift",
+                "meta.definition.type.enum.swift"
             ],
             "settings": {
                 "foreground": "#03BDE5",
