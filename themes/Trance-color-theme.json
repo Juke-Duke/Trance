@@ -411,6 +411,7 @@
                 "entity.other.attribute",
                 "entity.name.scope-resolution",
                 "entity.name.class",
+                "entity.scalar",
                 "meta.parens.c",
                 "meta.function-call.c",
                 "storage.type.numeric.go",
