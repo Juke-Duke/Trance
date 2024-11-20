@@ -1,0 +1,25 @@
+{
+  "name": "trance",
+  "displayName": "Trance",
+  "description": "Lose yourself to the zone.",
+  "icon": "Trance Icon.png",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Youssef Elshabasy"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Trance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Trance-color-theme.json"
+      }
+    ]
+  }
+}
