@@ -2,9 +2,9 @@
 
 ![Trance](Trance.png)
 
-<center>
-  A cool, blue, dark theme to help you stay locked in the zone.
-</center>
+<div align="center">
+   A cool, blue, dark theme to help you stay locked in the zone.
+</div>
 
 <br/>
 
