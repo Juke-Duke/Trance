@@ -1,5 +1,3 @@
-# Trance
-
 ![Trance](Trance.png)
 
 <div align="center">
