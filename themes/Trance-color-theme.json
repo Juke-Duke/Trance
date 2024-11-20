@@ -490,7 +490,9 @@
                 "string constant.other.placeholder",
                 "variable.parameter.handlebars",
                 "meta.jsx.children",
-                "source.swift"
+                "source.swift",
+                "variable.other.constant.ts",
+                "variable.other.constant.object.ts"
             ],
             "settings": {
                 "foreground": "#9ABDF5"

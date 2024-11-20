@@ -1,0 +1,38 @@
+/* Lock into the zone. */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.title {
+  font-size: 32px;
+  color: #007ACC;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.title:hover {
+  color: #005f99;
+}
+
+h2 {
+  color: #00BFFF;
+}
+
+img {
+  width: 300px;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
