@@ -3,7 +3,7 @@
   "displayName": "Trance",
   "description": "Lose yourself to the zone.",
   "icon": "TranceLogo.png",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.95.0"
   },
