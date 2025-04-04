@@ -328,7 +328,7 @@
                 "meta.other.type.phpdoc.php support.class",
                 "keyword.other.phpdoc.php",
                 "punctuation.whitespace.comment.leading.graphql",
-                "log.date",
+                "log.date"
             ],
             "settings": {
                 "foreground": "#3C406E",
@@ -340,6 +340,7 @@
             "scope": [
                 "constant",
                 "variable.other.constant",
+                "variable.other.enummember",
                 "variable.other.swift",
                 "meta.definition.type.enum.swift"
             ],
