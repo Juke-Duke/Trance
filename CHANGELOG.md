@@ -1,5 +1,8 @@
 # Change Log
 
+## 2.0.0
+- Major overhaul to all theme settings
+
 ## 1.2.0
 - Made `swift` enums consistent coloring
 
