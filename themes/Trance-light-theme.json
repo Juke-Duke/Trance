@@ -285,7 +285,7 @@
         "editor.rangeHighlightBorder": "#0055FF33",
         "editor.symbolHighlightBackground": "#E8EAEF66",
         "editor.symbolHighlightBorder": "#0055FF33",
-        "editorWhitespace.foreground": "#A9ADB6",
+        "editorWhitespace.foreground": "#E8EAEF",
         "editorIndentGuide.background1": "#E8EAEF",
         "editorIndentGuide.background2": "#E8EAEF",
         "editorIndentGuide.background3": "#E8EAEF",
@@ -673,7 +673,7 @@
         // Integrated Terminal colors
         "terminal.background": "#F8F9FC",
         "terminal.border": "#E8EAEF",
-        "terminal.foreground": "#202330",
+        "terminal.foreground": "#6B7280",
         "terminal.ansiBlack": "#A9ADB6",
         "terminal.ansiBlue": "#0055FF",
         "terminal.ansiBrightBlack": "#A9ADB6",
