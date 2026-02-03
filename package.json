@@ -24,9 +24,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Trance",
+        "label": "Trance Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Trance-color-theme.json"
+        "path": "./themes/Trance-dark-theme.json"
+      },
+      {
+        "label": "Trance Light",
+        "uiTheme": "vs",
+        "path": "./themes/Trance-light-theme.json"
       }
     ]
   }
