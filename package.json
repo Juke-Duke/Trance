@@ -26,12 +26,7 @@
       {
         "label": "Trance Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Trance-dark-theme.json"
-      },
-      {
-        "label": "Trance Light",
-        "uiTheme": "vs",
-        "path": "./themes/Trance-light-theme.json"
+        "path": "./themes/Trance-theme.json"
       }
     ]
   }

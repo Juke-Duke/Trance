@@ -1,5 +1,8 @@
 # Change Log
 
+## 2.0.3
+- Major overhaul to all theme settings
+
 ## 2.0.0
 - Major overhaul to all theme settings
 
