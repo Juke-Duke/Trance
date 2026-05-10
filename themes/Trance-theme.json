@@ -15,7 +15,7 @@
   },
   "colors": {
     // Base colors
-    "focusBorder": "#00000000",
+    "focusBorder": "#292C3D",
     "foreground": "#A3A8C2",
     "disabledForeground": "#3C406E",
     "widget.border": "#292C3D",
